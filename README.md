@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently pursuing MCA<br>🌱 I’m currently learning python and datascience<br>
+
+👋 Hi there! I’m an MCA student with a passion for technology and innovation. Currently pursuing my Master of Computer Applications, I’m eager to expand my knowledge in software development, data analytics, and artificial intelligence.<br><br>💻 My coursework has provided me with a solid foundation in programming languages such as Java, Python, and C++, as well as experience in web development and database management. I enjoy tackling complex problems and developing efficient solutions, and I’m always on the lookout for opportunities to learn and grow.<br><br>🌟 I have completed internships that allowed me to apply my skills in real-world scenarios, working on projects that enhanced my understanding of software engineering and project management. I thrive in collaborative environments and am excited about the possibility of contributing to impactful projects.<br><br>📈 I’m particularly interested in exploring roles in software development, data science, and machine learning. Let’s connect and discuss how we can collaborate or share insights in the tech field!<br>
 
 
 ## 🌐 Socials:
